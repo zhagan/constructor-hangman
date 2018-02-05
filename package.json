@@ -1,0 +1,23 @@
+{
+  "name": "pokemon-hangman",
+  "version": "1.0.0",
+  "description": "node js hangman game using constructor functions",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NA-Dev/ConstructorHangman.git"
+  },
+  "author": "Nikki Aaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NA-Dev/ConstructorHangman/issues"
+  },
+  "homepage": "https://github.com/NA-Dev/ConstructorHangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "pokemon": "^1.2.2"
+  }
+}
